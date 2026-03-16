@@ -10,7 +10,7 @@ Many workout apps exist today, but they often contain generic workout plans that
 ### Our approach (what is new)
 Our approach aims to provide **guided session support** rather than only standard workout recommendations. The system will take user inputs such as target muscle group, available equipment, how long the user can exercise, and their experience level.
 
-During the workout, the user logs each set that includes reps, weight, level of effort, and a pain flag). Based on this input, the trainer recommends the next step immediately: whether to continue, adjust weight, change reps, rest longer, switch to an easier variation, substitute an exercise, or stop if there is injury risk or if the workout seems difficult to perform.  This is like a personalized coaching guide than a plain generic plan. 
+During the workout, the user logs each set that includes reps, weight, level of effort, and a pain flag). Based on this input, the trainer recommends the next step immediately: whether to continue, adjust weight, change reps, rest longer, switch to an easier variation, substitute an exercise, or stop if there is injury risk or if the workout seems difficult to perform.  This is like a personalized coaching guide than a plain generic plan . The focus will msotly be on text based inputs rather than camera tracking .
 This makes the experience more easy and user friendly as it gives users a clear idea on how to proceed in their routine and make them have confidence in their skills and perform workouts in a safer and personalized manner . This is why the use of Artificial Intelligence is crucial for this project as it provides recommendations based on inputs given by different users instead of a same fixed routine for every person .
 
 
