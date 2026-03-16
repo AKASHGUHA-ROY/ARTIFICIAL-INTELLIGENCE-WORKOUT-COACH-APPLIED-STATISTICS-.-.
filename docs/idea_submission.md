@@ -18,7 +18,11 @@ This gives users a better idea of how to proceed and makes them more confident t
 People who may benefit from this idea include users who want to save money and cannot go to the gym because it requires expensive monthly memberships, and also the people who are very busy with their lives and do not have enough time or the opportunities to go to the gym. If the idea turns out to be successful, it can make performing workouts easier to follow as will be providing personalization and a more accessible and affordable option.
 
 ### Risks
-Because the app will be new, it will include some technical issues. For example, it could misinterpret the user’s logs and provide incorrect suggestions. Another error includes recommending exercises that do not match the target muscle groups the user wants to work on. 
+Because the app will be new, it will include some technical issues. For example, it could misinterpret the user’s logs and provide incorrect suggestions. Another error includes recommending exercises that do not match the target muscle groups the user wants to work on .
+
+### Costs for the project
+The cost for the project is expected to be around 0$-150$ that includes costs for an  Artificial Intelligence model used for answering prompts related to generating workout plans , safety instructions and giving out exercise instructions(0$-50$),overall costs of developing the app(0$-100$) , providing participation compensation to people for using the app and provding valuable feedback in its intial stages(0$-25$) , and the usage of coding based applications such as python and codex which are free of cost .
+
 ### Timeline
 The app is expected to be ready by the end of April. This is a three-part process that includes :
 1. Submitting the idea of the project
@@ -33,4 +37,4 @@ The app is expected to be ready by the end of April. This is a three-part proces
 **Final checks:**
 - The suggested exercises have a reasonable level of difficulty  
 - The system provides useful in-session guidance to the users based on set-by-set logs  
-- Whether a feedback given to a user helps in bringing about any sort of improvements (e.g., more consistent completion, better confidence ratings, fewer pain flags)
+- Whether a feedback given to a user helps in bringing about any sort of improvements (e.g., more consistency completion, better confidence ratings, and fewer pain flags) .
