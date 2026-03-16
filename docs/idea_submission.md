@@ -2,7 +2,7 @@
 ## Idea Submission — AI Workout Trainer (MVP)
 
 ### Objective (no jargon)
-Our aim for the Most Valuable Product project is to build an Artificial Intelligence workout trainer that provides **live session guidance** while the users are performing an exercise . It helps the users in knowing what they are doing wrong or getting right during a particular workout session and providing suggestions for improvement based on each person's individual ability .
+Our aim for the Minimum Viable Product project is to build an Artificial Intelligence workout trainer that provides **live session guidance** while the users are performing an exercise . It helps the users in knowing what they are doing wrong or getting right during a particular workout session and providing suggestions for improvement based on each person's individual ability .
 
 ### Current practice and limitations
 Many workout apps exist today, but they often contain generic workout plans that may not be suitable for every user. Sometimes people can be busy or live far away from gyms, so they have no other choice but to depend on remote workouts through apps or YouTube videos. These resources can be helpful, but they usually do not adapt to what the user is doing during the session. This can lead to only a surface-level understanding of exercises rather than a deeper understanding of how to train safely and in an effective manner .
@@ -23,7 +23,7 @@ Because the app will be new, it will include some technical issues. For example,
 The app is expected to be ready by the end of April. This is a three-part process that includes :
 1. Submitting the idea of the project
 2. Completing the nanoGPT-style language model work and showcasing sample generations  
-3. Developing the Most Valuable Product for our Artificial Intellignece startup idea
+3. Developing the Minium Viable Product for our Artificial Intellignece startup idea
 
 ### Mid-term and final checks for success
 **Mid-term checks:**
