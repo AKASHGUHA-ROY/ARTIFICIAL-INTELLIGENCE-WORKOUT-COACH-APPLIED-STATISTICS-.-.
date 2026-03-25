@@ -1,16 +1,8 @@
 """Train a tiny GPT-style character model on Tiny Shakespeare.
 
-Beginner-friendly script:
-- loads text from input.txt (or auto-downloads Tiny Shakespeare)
-- builds character vocabulary
-- creates train/validation split
-- trains a tiny model
-- prints losses
-- saves checkpoint
-
 Example usage:
     python train.py
-    python train.py --data_path plots/data/input.txt
+    python train.py --data_path docs/nanogpt/data/tiny_shakespeare.txt
 """
 
 from __future__ import annotations
@@ -39,7 +31,6 @@ def set_seed(seed: int) -> None:
 
 
 def maybe_download_tiny_shakespeare(path: str) -> None:
-    """Download Tiny Shakespeare if the target file does not exist."""
     if os.path.isfile(path):
         return
 
@@ -50,8 +41,6 @@ def maybe_download_tiny_shakespeare(path: str) -> None:
 
 
 def load_text(path: str) -> str:
-    # Resolve relative paths from repo root (cwd) first,
-    # then from this script's directory as a fallback.
     if os.path.isfile(path):
         chosen = path
     else:
@@ -80,7 +69,7 @@ def decode(tokens: list[int], itos: dict[int, str]) -> str:
     return "".join(itos[i] for i in tokens)
 
 
-def get_batch(data: torch.Tensor, block_size: int, batch_size: int, device: torch.device):
+def get_batch(data: torch.Tensor, block_size: int, batch_size: int, device: str):
     starts = torch.randint(0, len(data) - block_size - 1, (batch_size,))
     x = torch.stack([data[s : s + block_size] for s in starts])
     y = torch.stack([data[s + 1 : s + block_size + 1] for s in starts])
@@ -134,7 +123,7 @@ def main() -> None:
     if len(text) < args.block_size + 2:
         raise ValueError(
             f"Dataset is too short ({len(text)} chars) for block_size={args.block_size}. "
-            "Use a larger dataset (Tiny Shakespeare) or lower --block_size."
+            "Use a larger dataset or lower --block_size."
         )
 
     data = torch.tensor(encode(text, stoi), dtype=torch.long)
@@ -160,11 +149,14 @@ def main() -> None:
         batch_size = args.batch_size
         device = args.device
 
-    print("Starting training...")
+    print("Starting training.")
     for step in range(args.max_iters + 1):
         if step % args.eval_interval == 0:
             losses = estimate_loss(model, train_data, val_data, EvalCfg)
-            print(f"step {step:4d} | train loss {losses['train']:.4f} | val loss {losses['val']:.4f}")
+            print(
+                f"step {step:4d} | train loss {losses['train']:.4f} | "
+                f"val loss {losses['val']:.4f}"
+            )
 
         xb, yb = get_batch(train_data, args.block_size, args.batch_size, args.device)
         _, loss = model(xb, yb)
@@ -193,3 +185,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+     
