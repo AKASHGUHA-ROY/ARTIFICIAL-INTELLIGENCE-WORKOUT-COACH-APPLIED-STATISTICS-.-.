@@ -4,7 +4,7 @@
 Test how a raw general-purpose AI responds to our workout-assistant task before we add any improvements.
 
 ## Test Case 1
-**User input:** Beginner user, chest day, no equipment, 20 minutes.
+**User input:** Beginner user, ARM day, no equipment, 20 minutes.
 
 **Baseline output:**
 To be added.
