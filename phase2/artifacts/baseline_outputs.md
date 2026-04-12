@@ -35,7 +35,104 @@ Not personalized enough , very time consuming
 **User input:** Intermediate user, back day, dumbbells only, 45 minutes.
 
 **Baseline output:**
-To be added.
+Here’s a 45-minute dumbbell-only back workout for an intermediate lifter.
+
+Goal: hit lats, upper back, mid-back, rear delts, and lower back support with enough intensity to feel like a real training day.
+
+45-minute back workout
+
+Warm-up — 5 minutes
+Do 2 rounds:
+
+10 arm circles each direction
+10 hip hinges
+10 bodyweight reverse flies
+10 scap squeezes
+8 light dumbbell rows per side
+Main workout — 35 minutes
+1) Single-arm dumbbell row
+
+4 sets x 8–12 reps each side
+Rest: 60–75 sec
+
+Focus on pulling your elbow toward your hip, not just yanking the weight up. Keep your torso stable.
+
+2) Chest-supported dumbbell row
+
+4 sets x 10–12 reps
+Rest: 60 sec
+
+Lie face down on an incline bench if you have one. If not, do a bent-over two-dumbbell row with strict form. Pull toward your lower ribs.
+
+3) Dumbbell Romanian deadlift
+
+3 sets x 8–10 reps
+Rest: 75 sec
+
+This is more posterior chain, but it gives your back a strong hinge stimulus and builds spinal erector strength. Keep the dumbbells close to your legs.
+
+4) Dumbbell pullover
+
+3 sets x 10–15 reps
+Rest: 45–60 sec
+
+Good for lats if done under control. Slight bend in elbows, stretch hard, then pull back with your lats.
+
+5) Bent-over dumbbell reverse fly
+
+3 sets x 12–15 reps
+Rest: 45 sec
+
+Use lighter weight. Think about moving with your upper back and rear delts, not your traps.
+
+6) Dumbbell shrug with 2-second squeeze
+
+2–3 sets x 12–15 reps
+Rest: 45 sec
+
+Optional, but useful if you want extra upper trap work.
+
+Finisher — 5 minutes
+
+Row burnout circuit, 2 rounds
+
+10 reps/side single-arm row
+10 bent-over double-dumbbell rows
+15-second top hold on last row rep
+
+Rest only as needed.
+
+Progression
+
+Use this simple rule:
+
+When you hit the top of the rep range on all sets, increase weight next workout.
+If you cannot increase weight, slow the lowering phase to 3 seconds or add 1–2 reps.
+Form priorities
+Keep your spine neutral
+Do not jerk the dumbbells
+Control the lowering phase
+Pull with elbows, not biceps
+For rows, pause briefly at the top
+If you do not have a bench
+
+Use this version:
+
+Single-arm dumbbell row — 4 x 8–12
+Bent-over double-dumbbell row — 4 x 10–12
+Dumbbell Romanian deadlift — 3 x 8–10
+Dumbbell pullover on floor — 3 x 10–15
+Bent-over reverse fly — 3 x 12–15
+Shrugs — 2–3 x 12–15
+Sample pacing
+Warm-up: 5 min
+First two lifts: 16–18 min
+Next two lifts: 10–12 min
+Last two lifts + finisher: 10–12 min
+
+For a college-student schedule, this is a solid “get in, train hard, get out” back day.
+
+I can also turn this into a full 3-day or 5-day dumbbell-only split.
 
 **Notes:**
 To be added.
