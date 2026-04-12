@@ -366,7 +366,49 @@ No explanation of how it fits into a larger weekly plan.
 **User input:** User reports high effort and pain after a set and asks what to do next.
 
 **Baseline output:**
-To be added.
+Pain after workouts can mean two very different things:
+
+Normal soreness is usually a dull, achy stiffness that shows up later, often the next day, especially after a new or intense workout. Injury-type pain is more likely to be sharp, stabbing, worsening, localized to a joint or tendon, associated with swelling/bruising, pain with weight-bearing, or pain that does not improve after a couple of days of backing off. Overuse injuries often happen when intensity or volume rises too fast, form is off, or you keep doing the same hard activity without enough recovery.
+
+What to do now:
+Lower the intensity for 1 to 2 weeks. Keep moving, but switch from hard sessions to moderate ones. Warm up before workouts and cool down after. Build back gradually rather than making sudden jumps; Mayo Clinic notes a common rule of thumb is not increasing intensity or duration by more than about 10% per week.
+
+A good target is not “all-out” workouts every time. For adults, the baseline recommendation is 150 minutes of moderate activity per week plus muscle-strengthening work on 2 days weekly, and that time can be split into short chunks. You do not need frequent HIIT workouts to make progress.
+
+A better college-student routine would look like this:
+
+4-day simple plan
+
+Day 1: Full-body strength, 30 to 40 min
+Squat or leg press, hinge pattern, row, push-up or chest press, shoulder press, plank.
+Do 2 sets of 8 to 12 reps for each, leaving 2 to 3 reps “in the tank.”
+Day 2: Easy cardio, 20 to 30 min
+Brisk walk, bike, incline treadmill, or easy jog where you can still talk.
+Day 3: Rest or light mobility/walk, 10 to 20 min
+Day 4: Full-body strength again, 30 to 40 min
+Same template, maybe swap exercises.
+Day 5: Intervals, but moderate
+Example: 5-minute warm-up, then 6 rounds of 30 seconds hard + 90 seconds easy, then 5-minute cool-down.
+Day 6: Easy cardio or sports, 20 to 30 min
+Day 7: Rest
+
+That gives you 2 strength days, mostly moderate cardio, and only 1 hard interval day, which is usually much more sustainable when you are busy and sore. This also aligns better with federal activity guidance than stacking multiple high-intensity days.
+
+A few rules to keep pain down:
+Use a 0 to 10 scale. During exercise, mild discomfort up to about 3 out of 10 is often tolerable, but stop or modify if pain is sharp, changes your form, climbs as you continue, or is still clearly worse the next day. Prioritize sleep, hydration, and at least 48 hours before training the same muscle group hard again. Variety also helps reduce overuse injuries.
+
+Get checked by a clinician, sports medicine doctor, athletic trainer, or physical therapist sooner if you have swelling, bruising, trouble bearing weight, marked stiffness, pain getting worse, pain in a joint rather than muscle, numbness, chest pain, dizziness, or symptoms not improving after a few days of easing up. Those are not “just soreness.”
+
+A practical starting point:
+For the next 2 weeks, cut your current workout difficulty to about 70%, remove any all-out sets, and keep only 1 HIIT session per week. If your pain improves, add a little time or weight the following week, not both.
+
+If you tell me where the pain is, what workouts you’re doing now, and whether it feels sharp or just sore, I’ll turn this into a more personalized weekly plan.
 
 **Notes:**
-To be added.
+Does not answer the immediate question directly enough.
+Not personalized to the actual pain event.
+Jumps too quickly from one set to a full weekly plan.
+Mixes useful caution with overly confident recommendations.
+Does not clearly separate normal fatigue from urgent red flags early enough.
+No session-level adjustment.
+No context-aware replanning.
