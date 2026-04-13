@@ -186,7 +186,7 @@ Good next improvements for the project:
 - add a dorm-only / tiny-space-only test case
 - add a one-dumbbell-only test case
 - document remaining failure modes more clearly
-- ## How to Run
+ ## How to Run
 
 Run the prototype demo with:
 
