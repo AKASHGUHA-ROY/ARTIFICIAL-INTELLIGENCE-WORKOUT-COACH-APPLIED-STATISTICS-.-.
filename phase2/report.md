@@ -2,6 +2,8 @@
 
 ## Objective and Current MVP Definition
 
+Our MVP goal is to build a workout-planning assistant for busy college students that generates workout routines and dynamically replans them when workouts are missed.
+
 The goal of Phase 2 is to improve a general-purpose AI into a more useful workout assistant for realistic user requests. The baseline system can produce plausible workouts, but it often responds with answers that are too generic, too long, weak at handling constraints, and not careful enough when pain or recovery concerns appear.
 
 The current MVP is not a full production app. It is a design-and-evaluation prototype with three main parts:
