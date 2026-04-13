@@ -2,7 +2,7 @@
 
 This repository compares baseline and improved AI behavior for a workout-assistant task.
 
-The goal is not just to generate workouts. The goal is to build an assistant that is:
+The goal is not just to generate workouts. The goal is to build an assistant that is:  
 
 - personalized
 - practical
