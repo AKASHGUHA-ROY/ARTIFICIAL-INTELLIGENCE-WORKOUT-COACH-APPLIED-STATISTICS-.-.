@@ -224,8 +224,8 @@ If the project expands pain handling, the goal should be a safer decision layer 
 
 ## Conclusion
 
-Phase 2 successfully establishes the core direction of the project: a workout assistant should not just generate workouts, it should adapt to real-world constraints and respond safely when conditions change.
+Phase 2 established the central insight behind our project: an effective workout assistant must do more than generate a generic routine. It must account for real-world constraints such as time limits, equipment availability, student schedules, and safety-sensitive situations.
 
-The baseline system shows common failure modes such as verbosity, weak constraint handling, and poor immediate guidance. The improved system is not complete, but it already demonstrates meaningful gains in brevity, actionability, and safety-aware behavior.
+Our benchmark cases, baseline outputs, and evaluation script showed that a raw general-purpose AI system can produce plausible workout advice, but it often remains too generic, too verbose, and insufficiently responsive to immediate user needs. Although our improved system is not yet a finished MVP, Phase 2 demonstrates meaningful progress in building the benchmark, failure-analysis process, and comparison framework needed to improve it.
 
-The project is now in a good position for Phase 3, where the main challenge is to turn the current design-and-evaluation framework into a more automated and more rigorous assistant system.
+This puts the project in a strong position for Phase 3, where our main goal is to turn the current evaluation-driven prototype into a more automated, constraint-aware assistant that can generate and replan workouts more reliably for busy college students.
