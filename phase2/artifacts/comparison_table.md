@@ -6,4 +6,4 @@
 | 2 | average | TBD | TBD | TBD |
 | 3 | average | TBD | TBD | TBD |
 | 4 | average | TBD | TBD | TBD |
-| 5 | TBDaverage | TBD | TBD | TBD |
+| 5 | average | TBD | TBD | TBD |
