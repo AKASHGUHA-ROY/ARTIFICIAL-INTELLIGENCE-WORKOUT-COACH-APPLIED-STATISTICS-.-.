@@ -25,8 +25,8 @@ from typing import Dict, List, Optional, Tuple
 
 
 BASE_DIR = Path(__file__).resolve().parent
-BASELINE_FILE = BASE_DIR / "baseline_outputs.md"
-IMPROVED_FILE = BASE_DIR / "improved_outputs.md"
+BASELINE_FILE = BASE_DIR / "artifacts" / "baseline_outputs.md"
+IMPROVED_FILE = BASE_DIR / "artifacts" / "improved_outputs.md"
 
 
 @dataclass
