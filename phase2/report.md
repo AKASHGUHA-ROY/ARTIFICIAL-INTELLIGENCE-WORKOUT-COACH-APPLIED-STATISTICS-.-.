@@ -27,6 +27,8 @@ In other words, the MVP should show that the assistant is becoming more coach-li
 
 The repo currently contains the main pieces needed to demonstrate the Phase 2 concept.
 
+So far, we have built the first version of our Phase 2 benchmarking and evaluation pipeline. We defined five representative user scenarios for the workout assistant, including cases involving beginner users, equipment constraints, time constraints, injury/pain concerns, and busy-student full-body workouts. We collected baseline responses from a general-purpose AI system and analyzed where those responses fall short of our target MVP. We also wrote a Python script that reads baseline and improved responses from Markdown files, organizes them by test case, and computes a lightweight comparison report across dimensions such as personalization, safety, constraint handling, brevity, and actionability. In addition, we created written failure-analysis notes for several baseline cases to document what is currently missing from the general baseline system.
+
 ### 1. Evaluation README
 `phase2/README.md` explains the project goal, the design framework, the evaluation rubric, and the test-case summary. It defines the improved system around four connected ideas:
 
