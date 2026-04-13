@@ -99,10 +99,10 @@ A simple scoring scale:
 
 | Test Case | Baseline Quality | Improved Quality | Main Improvement | Remaining Problem |
 |---|---|---|---|---|
-| 1 | Weak | Strong | Better personalization and tighter fit to the 20-minute constraint | Output can still sound somewhat generic |
-| 2 | Weak | Strong | Stronger handling of equipment, time, and realistic workout pacing | Replanning after missed workouts could still be clearer |
-| 3 | Weak | Moderate | Safer first response and better handling of pain as a constraint | Still difficult without follow-up clarification |
-| 4 | Weak | Strong | Better adaptation to short sessions, dorm life, and quiet-mode needs | Pulling options remain limited without equipment |
+| 1 | Average | Strong | Better personalization and tighter fit to the 20-minute constraint | Output can still sound somewhat generic |
+| 2 | Average | Strong | Stronger handling of equipment, time, and realistic workout pacing | Replanning after missed workouts could still be clearer |
+| 3 | Weak | Strong | Safer first response and better handling of pain as a constraint | Still difficult without follow-up clarification |
+| 4 | Average | Strong | Better adaptation to short sessions, dorm life, and quiet-mode needs | Pulling options remain limited without equipment |
 | 5 | Weak | Strong | More direct next-step guidance and better session-level adjustment | Pain advice still depends on limited user context |
 
 ## Outputs in This Repo
