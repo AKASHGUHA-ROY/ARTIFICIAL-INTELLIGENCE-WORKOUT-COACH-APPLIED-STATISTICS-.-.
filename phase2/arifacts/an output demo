@@ -1,0 +1,38 @@
+
+=== Test Case 1 ===
+target_muscle_group: arms
+recommended_next_step: Do a short beginner arm session with wall push-ups, controlled tricep dips, and isometric bicep squeezes.
+reason: This matches arm day, beginner level, no-equipment limits, and a short 20-minute workout.
+safety_adjustment: Stop if pain appears and reduce range of motion if elbows or shoulders feel uncomfortable.
+alternative_easier_option: Use wall push-ups, arm circles, and isometric arm squeezes only.
+
+=== Test Case 2 ===
+target_muscle_group: back
+recommended_next_step: Do a dumbbell-only back workout with bent-over rows, one-arm rows, rear delt raises, and dumbbell Romanian deadlifts for 3 to 4 sets each.
+reason: This fits an intermediate back day, respects the dumbbells-only limit, and works well for a 45-minute session.
+safety_adjustment: Keep your back neutral during rows and hinges, and reduce weight if form starts to break down.
+alternative_easier_option: Use lighter dumbbell rows, shorter sets, and fewer total exercises.
+
+=== Test Case 3 ===
+target_muscle_group: legs
+recommended_next_step: Avoid high-knee-stress leg exercises right now and switch to gentle pain-free movement or light mobility.
+reason: Knee pain was reported, so the safest next step is to reduce stress on the joint before continuing leg training.
+safety_adjustment: Do not do deep squats, lunges, or jumping until the pain is better understood.
+alternative_easier_option: Try light stretching, short-range sit-to-stand movement, or stop the leg session for today.
+
+=== Test Case 4 ===
+target_muscle_group: full body
+recommended_next_step: Do a short 15-minute full-body circuit with bodyweight squats, wall push-ups, glute bridges, and plank holds.
+reason: This fits a busy schedule and gives a realistic full-body workout in a short time.
+safety_adjustment: Keep movements controlled, use small rest breaks, and stop any exercise that causes pain.
+alternative_easier_option: Do only 2 rounds with fewer reps and shorter plank holds.
+
+=== Test Case 5 ===
+target_muscle_group: current session
+recommended_next_step: Stop the painful movement, rest, and do not continue the next set until the pain is checked.
+reason: Pain during or right after a set should be treated as a warning sign before continuing the workout.
+safety_adjustment: Do not push through sharp or worsening pain. Reduce load or stop the session if pain continues.
+alternative_easier_option: Switch to a pain-free movement or end the session and monitor symptoms.
+
+
+** Process exited - Return Code: 0 **
