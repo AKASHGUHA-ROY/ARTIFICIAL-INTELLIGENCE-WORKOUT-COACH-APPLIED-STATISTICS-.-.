@@ -1,7 +1,7 @@
 # Baseline Outputs
 
 ## Goal
-Test how a raw general-purpose AI responds to our workout-assistant task before we add any improvements.
+Talking a look at how a an ordinary artificial intelligence app responds to the users workout-assistant tasks before any improvements are given to it .
 
 ## Test Case 1
 **User input:** Beginner user, ARM day, no equipment, 20 minutes.
@@ -10,23 +10,22 @@ Test how a raw general-purpose AI responds to our workout-assistant task before 
 **Baseline output:**
 Recommended workout / next step
 Do a 20-minute beginner arm workout with no equipment:
-Arm circles — 1 minute
+Perform Arm circles — 1 minute
 Wall push-ups — 3 sets of 8–12
 Tricep dips using a chair or bed edge — 3 sets of 6–10
 Slow-tempo push-ups from knees or incline — 2 sets of 6–10
 Isometric bicep squeeze by pressing palms upward against each other — 3 rounds of 20–30 seconds
 Plank shoulder taps — 2 sets of 10 per side
 
-Rest about 30–60 seconds between sets.
+Take a break of about 30–60 seconds between sets.
 
-Why I chose it
-This works for a beginner because it uses no equipment, fits in 20 minutes, and still targets the arms through bodyweight pushing, triceps work, and isometric tension. It is also simple enough to follow without needing advanced technique.
+Why this was chosen
+This is extremely beneficial for a beginner because it uses no complicated equipments, can be done in 20 minutes, and still targets the arms through bodyweight pushing, triceps work, and isometric tension. It is also simple enough to follow and does not require techniques that require rigirous amount of practice and experience .
 Safety notes
-Start slow and focus on form, not speed.
-Stop if you feel sharp pain in the wrists, shoulders, or elbows.
-Use an easier version, like wall push-ups instead of floor push-ups, if needed.
+Start slow and focus on how you go about it, not the speed in which you are doing it 
+Stop if you feel any sort of discomfort in the wrists, shoulders, or elbows.
 Warm up for 2–3 minutes before starting.
-Do not lock your joints harshly during reps.
+Do not lock your joints a lot in a harsh manner during reps.
 
 **Notes:**
 Not personalized enough , very time consuming 
@@ -44,7 +43,7 @@ Goal: hit lats, upper back, mid-back, rear delts, and lower back support with en
 Warm-up — 5 minutes
 Do 2 rounds:
 
-10 arm circles each direction
+10 arm circles in clockwise and anti - clockwise direction
 10 hip hinges
 10 bodyweight reverse flies
 10 scap squeezes
@@ -109,12 +108,12 @@ Use this simple rule:
 When you hit the top of the rep range on all sets, increase weight next workout.
 If you cannot increase weight, slow the lowering phase to 3 seconds or add 1–2 reps.
 Form priorities
-Keep your spine neutral
+Ensure that your spine is maintained in a neutral position
 Do not jerk the dumbbells
 Control the lowering phase
-Pull with elbows, not biceps
-For rows, pause briefly at the top
-If you do not have a bench
+Instead of pulling with biceps , pull with elbows
+Pause briefly at the top for rows
+If you lack access to a bench
 
 Use this version:
 
@@ -130,9 +129,6 @@ First two lifts: 16–18 min
 Next two lifts: 10–12 min
 Last two lifts + finisher: 10–12 min
 
-For a college-student schedule, this is a solid “get in, train hard, get out” back day.
-
-I can also turn this into a full 3-day or 5-day dumbbell-only split.
 
 **Notes:**
 Too generic. Uses only surface-level personalization. 
