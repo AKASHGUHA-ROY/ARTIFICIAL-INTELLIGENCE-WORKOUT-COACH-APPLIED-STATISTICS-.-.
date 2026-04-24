@@ -13,6 +13,7 @@ The MVP uses a simple Streamlit interface for user input and a rule-based workou
 - safety adjustment
 - alternative easier option
 - progression / replan note
+- The recommendation logic is designed to answer the immediate next step first, while respecting safety signals and user constraints such as time, equipment, and pain status.
 
 ## 4. Data
 The MVP uses a small exercise reference library stored in `mvp/data/exercise_library.json`. It also uses the test cases and design ideas developed in Phase 2 as guidance for what kinds of recommendations the system should produce.
@@ -24,6 +25,7 @@ This MVP does not rely on a trained generative model. Instead, it uses a structu
 The MVP was tested through live demo cases in GitHub Codespaces using Streamlit. At least two demo scenarios were run:
 - a normal workout recommendation case
 - a pain-aware safety case
+  
 
 The outputs were recorded in `mvp/artifacts/demo_outputs.md`.
 
