@@ -1,4 +1,6 @@
+import streamlit as st
 
+from src.planner import build_workout_plan, next_step_for_effort_and_pain
 
 
 st.set_page_config(page_title="AI Workout Assistant MVP", page_icon="🏋️")
