@@ -1,1 +1,17 @@
 
+Use this for `mvp/data/exercise_library.json`:
+
+```json
+{
+  "exercises": [
+    "wall push-ups",
+    "glute bridges",
+    "bodyweight squats to a chair",
+    "calf raises",
+    "light mobility",
+    "dumbbell rows",
+    "bent-over reverse flys",
+    "Romanian deadlifts",
+    "plank holds"
+  ]
+}
