@@ -9,4 +9,3 @@ Install dependencies:
 
 ```bash
 pip install -r mvp/requirements.txt
-streamlit run mvp/app.py is used to run the demo in GITHUB'S code spaces .
