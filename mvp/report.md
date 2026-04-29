@@ -2,28 +2,28 @@
 
 ## 1. Executive Summary
 
-This project builds an AI-style workout assistant MVP for busy students and beginner/casual exercisers. The MVP helps a user quickly generate a safe workout plan based on their available time, target workout focus, available equipment, experience level, effort level, and pain status.
+This project aims to build an artificial intelligence  workout assistant MVP for students that are extremely busy  and people who are new to exercising . The MVP helps a user quickly generate a resonable workout plan based on their available time, target workout focus, available equipment, experience level, effort level, and if their is any pain status required to be addressed .
 
-The final MVP includes a Streamlit web app and a rule-based workout planner. The user enters their workout situation into the app, and the system returns a recommended workout plan, total time, rationale, safety note, and in-the-moment coaching response.
+The final MVP includes a Streamlit web app and a rule-based workout planner. The user enters the circumstances under which they want to perform their exercises into the app, and the system returns a  workout plan, the approximate time it will require, rationale, safety notes, and in-the-moment coaching responses .
 
 The current version does not use a trained machine learning model. Instead, it uses a transparent rule-based recommendation system with a local exercise dataset. This makes the MVP easy to run, debug, and explain for a class project.
 
 ## 2. User & Use Case
 
-The intended user is a busy student or beginner/casual exerciser who wants quick workout guidance without needing a full coaching app or gym trainer.
+The intended user is a busy student or a person who is new to exercising and is a casual exerciser who wants quick workout guidance without needing a full coaching app or a gym trainer.
 
-A typical user may have:
+A typical user may have constraints such as :
 
-- limited time
-- limited equipment
-- a small dorm or apartment space
+- Shortage of time due to them being students , having jobs etc .
+- A lack of equipment 
+- a small dorm or apartment space which makes it difficult to move around .
 - beginner-level experience
-- uncertainty about what exercise to do next
-- mild pain or discomfort that requires conservative guidance
+- uncertainty about what exercise to do next due to any lack of prior experience 
+- any sort pain or a feeling of discomfort that requires conservative guidance
 
 Example use case:
 
-A busy student has only 15 to 20 minutes before class and wants a simple full-body or targeted workout. They enter their available equipment, experience level, workout focus, and pain status. The app returns a short workout plan that fits their constraints and explains why the plan was selected.
+A busy student has only 15 to 20 minutes before class and wants a simple full-body or targeted workout in order to stay fit . They enter their available equipment, what experience level they have , the main target workout focus, and any pain related updates if any. The app returns a short workout plan that fits their constraints and gives a good reasoning as to why it chose this plan which can help in improving the confidence of the user in the app .
 
 ## 3. System Design
 
@@ -76,10 +76,10 @@ mvp/data/exercises.json
 
 Each exercise entry includes fields such as:
 
-- exercise name
+- name of the exercise to be performed
 - body part
-- required equipment
-- experience level
+- required equipments for perofrming the exercise
+- the level of experience 
 - estimated minutes
 - exercise role
 - dorm-friendly flag
