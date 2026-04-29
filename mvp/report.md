@@ -176,3 +176,24 @@ With 2 to 3 more months, the next improvements would be:
 - Add more benchmark and edge cases.
 - Improve the Streamlit interface visually.
 - Explore using an LLM to explain recommendations in more natural language while keeping safety rules.
+## Evaluation
+
+We evaluated the system across 10 realistic user scenarios, including:
+- beginner vs intermediate users
+- pain-aware adjustments
+- time-constrained workouts
+- dorm-friendly constraints
+
+### Results Summary
+- Total scenarios: 10
+- Passed: X
+
+### Key Findings
+- The system reliably respects time and equipment constraints
+- Pain filtering works correctly in most cases
+- Failures occur in:
+  - very short workouts (limited exercise options)
+  - strict constraint combinations (e.g., no equipment + pain)
+
+Full results:
+See mvp/artifacts/evaluation_results.md
